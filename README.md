@@ -7,6 +7,11 @@ Alright, enough talk, let's learn!
 
 But don't forget to do coding problems from above while you learn!
 
+## Daily
+- [ ] [Solve Leetcode (1)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [Read from my Currently_Reading (1)](https://github.com/young170/Books/tree/main/Currently_Reading)
+- [ ] [Read from the repo about Linux insides (1)](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
+
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
